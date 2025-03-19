@@ -1,4 +1,4 @@
-python enhanced_pdf_processor.py \
+python JFK_PDF_OCR.py \
     --url "https://www.archives.gov/research/jfk/release-2025" \
     --poppler-path "/path/to/poppler" \
     --use-ensemble \
